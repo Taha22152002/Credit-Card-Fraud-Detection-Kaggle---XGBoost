@@ -11,7 +11,7 @@ The project includes **model training**, **Flask API deployment**, and **local A
 Fraud_Detection_Project/
 │
 ├── notebooks/
-│   └── Fraud_Detection_Using_Synthesized_Dataset.ipynb
+│   └── Fraud_Detection.ipynb
 │
 ├── model/
 │   └── fraud_detector_xgb.pkl
