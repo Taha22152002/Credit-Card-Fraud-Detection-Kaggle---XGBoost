@@ -1,8 +1,3 @@
-Alright — here’s your **GitHub-ready README.md** for your fraud detection project.
-I made it **portfolio-friendly**, clear for recruiters, and included the **How I Trained the Model** section.
-
----
-
 # Credit Card Fraud Detection API 🚀
 
 A Machine Learning project that detects fraudulent credit card transactions using an **XGBoost Classifier**.
@@ -178,4 +173,3 @@ python test_request.py
 
 ---
 
-Do you want me to also create the **requirements.txt** automatically from your environment so your repo is ready to push? That way, anyone can install and run your project without dependency issues.
